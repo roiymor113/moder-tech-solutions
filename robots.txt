@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /admin-panel/
+# Verification for: amirmodar113@outlook.com
